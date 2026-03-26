@@ -25,6 +25,6 @@ ARCHITECTURE BREAKDOWN (IMPORTANT FOR YOU):
 Layer	-Responsibility
 Models	-Data structure
 Serializers	-Validation
-Views (CBV)	-Request handling
-Services	-Business logic
-DB	-Concurrency safety
+Views (CBV)	Request handling
+Services	Business logic
+DB	Concurrency safety
